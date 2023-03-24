@@ -5,7 +5,7 @@ class Program
     {
         Console.Clear();
         int countOfSymbols = 3;
-        string[] resource = { "hello", "2", "world", ":-(" };
+        string[] resource = { "hello", "2", "world", ":-(" }; 
         System.Console.WriteLine($"[{String.Join(", ", resource)}] => [{String.Join(", ", GetRangedSymbolsWords(resource, countOfSymbols))}]");
     }
 
@@ -24,17 +24,6 @@ class Program
         }
         Array.Resize<string>(ref result,j); 
         return result;
-
-    }
-    static string PrintArray(string[] pArray, int pos = 0)
-    {
-        string result = String.Empty;
-
-        if (pos >= pArray.Length) { return String.Empty; }
-        else
-        {
-            return result = ", " + pArray[pos]  + PrintArray(pArray, pos + 1);
-        }
 
     }
 }
