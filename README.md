@@ -17,7 +17,7 @@
 3. Снабдить репозиторий оформленным текстовым описанием решения (README.MD)  
 
 4.  Написать программу, решающую поставленную задачу 
-   <p>Solution: <a href=".GB_1Semestr_final_project/Resourse/Project/Program.cs" title="Program"> Prorgam.sc </a></p>
+   <p>Solution: <a href="https://github.com/zzergAtStage/GB_1Semestr_final_project/blob/main/Resourse/Project/Program.cs" title="Program"> Prorgam.sc </a></p>
 
 
 5. Использовать контроль версий при работе с проектом.
