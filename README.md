@@ -11,7 +11,9 @@
 </details>
 
 
-![Algorithm](/GB_1Semestr_final_project/Resourse/Algorithm%20-%20Main.svg "Algorithm") 
+![Algorithm](https://github.com/zzergAtStage/GB_1Semestr_final_project/blob/main/Resourse/Algorithm%20-%20Main.svg "Algorithm")
+
+
 3. Снабдить репозиторий оформленным текстовым описанием решения (README.MD)  
 
 4.  Написать программу, решающую поставленную задачу 
