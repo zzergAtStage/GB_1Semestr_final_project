@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Father"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-24 01:07:26 PM"/>
+        <attribute name="created" value="RmF0aGVyO1pFUkctWkVQSElSS0E7MjAyMy0wMy0yNDsxMjo1NToyNyBQTTsyODQ3"/>
+        <attribute name="edited" value="RmF0aGVyO1pFUkctWkVQSElSS0E7MjAyMy0wMy0yNDswMTowNzoyNiBQTTsxOzI5NDk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="resourse, result" type="String" array="True" size="5"/>
+            <declare name="ArrayLenght, CountOfSymbols, i, j" type="Integer" array="False" size=""/>
+            <assign variable="CountOfSymbols" expression="3"/>
+            <assign variable="j" expression="0"/>
+            <assign variable="ArrayLenght" expression="resourse.Lenght"/>
+            <while expression="i &lt; ArrayLength">
+                <assign variable="LenghtOfWord" expression="resourse[i].Length"/>
+                <if expression="LengthOfWord &lt;= CountOfSumbols">
+                    <then>
+                        <assign variable="result[j]" expression="resourse[i]"/>
+                        <assign variable="j" expression="j+1"/>
+                    </then>
+                    <else/>
+                </if>
+            </while>
+            <output expression="String.Join(',',result)" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

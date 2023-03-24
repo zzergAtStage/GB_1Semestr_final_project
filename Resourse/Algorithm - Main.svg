@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 3.4.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1875" height="3050">
+	<rect x="0" y="0" width="1875" height="3050" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,200 450,261"/>
+		<polygon fill="#404040" stroke="none" points="450,275 463,250 436,250"/>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,2775 450,2836"/>
+		<polygon fill="#404040" stroke="none" points="450,2850 463,2825 436,2825"/>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 350,100 A 50 50, 0, 0 0, 350 200 L 550,200 A 50 50, 0, 0 0, 550 100 Z"/>
+			<text x="450" y="115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="450" dy="50" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 350,2850 A 50 50, 0, 0 0, 350 2950 L 550,2950 A 50 50, 0, 0 0, 550 2850 Z"/>
+			<text x="450" y="2865" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="450" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,450 450,511"/>
+			<polygon fill="#404040" stroke="none" points="450,525 463,500 436,500"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,700 450,761"/>
+			<polygon fill="#404040" stroke="none" points="450,775 463,750 436,750"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,875 450,936"/>
+			<polygon fill="#404040" stroke="none" points="450,950 463,925 436,925"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,1050 450,1111"/>
+			<polygon fill="#404040" stroke="none" points="450,1125 463,1100 436,1100"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,1275 450,1361"/>
+			<polygon fill="#404040" stroke="none" points="450,1375 463,1350 436,1350"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="450,1475 450,2661"/>
+			<polygon fill="#404040" stroke="none" points="450,2675 463,2650 436,2650"/>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 175,275 L 175,450 L 725,450 L 725,275 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="175,300 725,300"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="200,275 200,450"/>
+				<text x="462" y="315" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="462" dy="50" unicode-bidi="embed">String Array resourse[5],</tspan>
+					<tspan x="462" dy="50" unicode-bidi="embed"> result[5]</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 200,525 L 200,700 L 700,700 L 700,525 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="200,550 700,550"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="225,525 225,700"/>
+				<text x="462" y="565" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="462" dy="50" unicode-bidi="embed">Integer ArrayLenght,</tspan>
+					<tspan x="462" dy="50" unicode-bidi="embed"> CountOfSymbols, i, j</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 225,775 L 225,875 L 675,875 L 675,775 Z"/>
+				<text x="450" y="790" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="450" dy="50" unicode-bidi="embed">CountOfSymbols = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 300,950 L 300,1050 L 600,1050 L 600,950 Z"/>
+				<text x="450" y="965" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="450" dy="50" unicode-bidi="embed">j = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#C04040" stroke="#602020" stroke-width="3" stroke-dasharray="none" d="M 175,1125 L 175,1275 L 725,1275 L 725,1125 Z"/>
+				<text x="450" y="1140" fill="#FFFFFF" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="450" dy="50" unicode-bidi="embed">ArrayLenght = resourse.</tspan>
+					<tspan x="450" dy="50" unicode-bidi="embed">Lenght</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="675,1425 1100,1425 1100,1511"/>
+				<polygon fill="#404040" stroke="none" points="1100,1525 1113,1500 1086,1500"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1100,2500 1100,2575 500,2575 500,1488"/>
+				<polygon fill="#404040" stroke="none" points="500,1475 486,1499 513,1499"/>
+				<g>
+					<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1100,1675 1100,1736"/>
+					<polygon fill="#404040" stroke="none" points="1100,1750 1113,1725 1086,1725"/>
+					<g>
+						<path fill="#C04040" stroke="#602020" stroke-width="3" stroke-dasharray="none" d="M 800,1525 L 800,1675 L 1400,1675 L 1400,1525 Z"/>
+						<text x="1100" y="1540" fill="#FFFFFF" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1100" dy="50" unicode-bidi="embed">LenghtOfWord = resourse[i].</tspan>
+							<tspan x="1100" dy="50" unicode-bidi="embed">Length</tspan>
+						</text>
+					</g>
+					<g>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1375,1900 1550,1900 1550,2086"/>
+						<polygon fill="#404040" stroke="none" points="1550,2100 1563,2075 1536,2075"/>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1550,2375 1550,2475 1138,2475"/>
+						<polygon fill="#404040" stroke="none" points="1125,2475 1149,2488 1149,2461"/>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="825,1900 625,1900 625,2475 1061,2475"/>
+						<polygon fill="#404040" stroke="none" points="1075,2475 1050,2461 1050,2488"/>
+						<g>
+							<path fill="#FFD0D0" stroke="#A07070" stroke-width="3" stroke-dasharray="none" d="M 1100,1750 L 800,1900 L 1100,2050 L 1400,1900 Z"/>
+							<text x="1100" y="1840" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="1100" dy="50" unicode-bidi="embed">LengthOfWord &lt;=</tspan>
+								<tspan x="1100" dy="50" unicode-bidi="embed"> CountOfSumbols</tspan>
+							</text>
+						</g>
+						<g>
+							<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1550,2200 1550,2261"/>
+							<polygon fill="#404040" stroke="none" points="1550,2275 1563,2250 1536,2250"/>
+							<g>
+								<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 1325,2100 L 1325,2200 L 1775,2200 L 1775,2100 Z"/>
+								<text x="1550" y="2115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1550" dy="50" unicode-bidi="embed">result[j] = resourse[i]</tspan>
+								</text>
+							</g>
+							<g>
+								<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 1400,2275 L 1400,2375 L 1700,2375 L 1700,2275 Z"/>
+								<text x="1550" y="2290" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1550" dy="50" unicode-bidi="embed">j = j+1</tspan>
+								</text>
+							</g>
+						</g>
+						<g>
+						</g>
+						<ellipse cx="1100" cy="2475" rx="25" ry="25" fill="#FFD0D0" stroke="#A07070" stroke-width="3"/>
+						<text x="1475" y="1815" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1475" dy="50" unicode-bidi="embed">True</tspan>
+						</text>
+						<text x="712" y="1815" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="712" dy="50" unicode-bidi="embed">False</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#FFE0A0" stroke="#A08040" stroke-width="3" stroke-dasharray="none" d="M 275,1375 L 225,1425 L 275,1475 L 625,1475 L 675,1425 L 625,1375 Z"/>
+					<text x="450" y="1390" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="450" dy="50" unicode-bidi="embed">i &lt; ArrayLength</tspan>
+					</text>
+				</g>
+				<text x="750" y="1340" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="750" dy="50" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="362" y="1490" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="362" dy="50" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#C04040" stroke="#602020" stroke-width="3" stroke-dasharray="none" d="M 150,2675 L 100,2775 L 750,2775 L 800,2675 Z"/>
+				<text x="450" y="2690" fill="#FFFFFF" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="450" dy="50" unicode-bidi="embed">Output String.Join(',',result)</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
